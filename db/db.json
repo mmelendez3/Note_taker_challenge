@@ -1,5 +1,24 @@
 {
   "notes": [
-    
+    {
+      "title": "Call Bank on Friday",
+      "text": "don't forget to call the bank",
+      "id": "0"
+    },
+    {
+      "title": "Reschedule Delivery",
+      "text": "change delivery date.",
+      "id": "1"
+    },
+    {
+      "title": "Finish Payroll",
+      "text": "pay employees",
+      "id": "2"
+    },
+    {
+      "title": "Check in with Clients",
+      "text": "call clients back",
+      "id": "3"
+    }
   ]
 }
